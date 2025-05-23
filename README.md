@@ -94,8 +94,4 @@ Contributions are welcome! To contribute:
 4. Push to branch: `git push origin feature/your-feature`
 5. Open a pull request.
 
-## License
-MIT License
 
-## Contact
-For inquiries, reach out via the hackathon platform or GitHub issues.
