@@ -1,0 +1,34 @@
+node_modules
+
+.cursorrules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# ML Model files (if they get very large and are regenerated)
+# *.h5
+# *.keras
+
+# AutoKeras project directory (if it gets created)
+autokeras_impact_score/
