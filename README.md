@@ -1,6 +1,6 @@
-# Base Carbon Canopy
+# Blockchain Project
 
-**Base Carbon Canopy** is a decentralized platform for trading tokenized carbon credits in the voluntary carbon market (VCM), built on the **Base Sepolia testnet** for the **Base Build India Hackathon** (Stablecoins track). It leverages **mock USDC** as the sole medium for peer-to-peer transactions, ensuring stable, low-cost trading. The platform features a **React DApp** with a **Leaflet.js map** to visualize projects, **AutoML-driven Impact Score analysis** for projects, and a **1% fee** mechanism, addressing VCM issues like opacity, high costs, and accessibility barriers. Aligned with **SDGs 13 (Climate Action), 9 (Industry, Innovation), and 10 (Reduced Inequality)**, it empowers small-scale projects in India.
+**Base Carbon Canopy** is a decentralized platform for trading tokenized carbon credits in the voluntary carbon market (VCM), built on the **Base Sepolia testnet**. It leverages **mock USDC** as the sole medium for peer-to-peer transactions, ensuring stable, low-cost trading. The platform features a **React DApp** with a **Leaflet.js map** to visualize projects, **AutoML-driven Impact Score analysis** for projects, and a **1% fee** mechanism, addressing VCM issues like opacity, high costs, and accessibility barriers. Aligned with **SDGs 13 (Climate Action), 9 (Industry, Innovation), and 10 (Reduced Inequality)**, it empowers small-scale projects in India.
 
 ## Problem Addressed
 
