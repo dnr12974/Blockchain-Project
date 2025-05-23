@@ -20,18 +20,6 @@ The VCM suffers from:
 - **Low Fees**: 1% fee in mock USDC, maximizing funds for projects.
 - **User-Friendly DApp**: React interface with MetaMask for easy access.
 
-## Application Preview / Screenshots
-
-![Homescreen](frontend/public/basecarboncanopyhome.png)
-
-![Map](frontend/public/bcc3.png)
-
-![Trading](frontend/public/bcctrade.png)
-
-![Impact Scores](frontend/public/bcc4.png)
-
-![Architecture](frontend/public/bccarch.png)
-
 ## Technologies
 - **Solidity**: Smart contracts for ERC-1155 credits and mock USDC.
 - **React**: Frontend DApp for trading and visualization.
