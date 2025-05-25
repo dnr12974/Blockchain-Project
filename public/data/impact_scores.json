@@ -1,0 +1,140 @@
+[
+    {
+        "GSID": 6513,
+        "Project_Name": "VPA - Spring Health - 1",
+        "Country": "India",
+        "Project_Type": "Energy Efficiency - Domestic",
+        "Estimated_Annual_Credits": 9992,
+        "Parsed_SDGs": [
+            "SDG 13",
+            "SDG 15",
+            "SDG 6"
+        ],
+        "Predicted_Impact_Score": 40.46492385864258
+    },
+    {
+        "GSID": 11894,
+        "Project_Name": "GS11450 - MicroEnergy Credits \\u2013 Microfinance for Clean Energy Product Lines \\u2013 India - CPA 35 - GS11894",
+        "Country": "India",
+        "Project_Type": "Energy Efficiency - Domestic",
+        "Estimated_Annual_Credits": 282956,
+        "Parsed_SDGs": [
+            "SDG 13",
+            "SDG 1",
+            "SDG 8",
+            "SDG 3",
+            "SDG 7",
+            "SDG 5"
+        ],
+        "Predicted_Impact_Score": 67.49954986572266
+    },
+    {
+        "GSID": 5698,
+        "Project_Name": "40 MW Wind Power Project at Maliya Gujarat",
+        "Country": "India",
+        "Project_Type": "Other",
+        "Estimated_Annual_Credits": 112726,
+        "Parsed_SDGs": [
+            "SDG 13",
+            "SDG 7",
+            "SDG 8"
+        ],
+        "Predicted_Impact_Score": 70.2326431274414
+    },
+    {
+        "GSID": 4614,
+        "Project_Name": "Solar Water Heater Program In India-CPA-3",
+        "Country": "India",
+        "Project_Type": "Other",
+        "Estimated_Annual_Credits": 34654,
+        "Parsed_SDGs": [
+            "SDG 13",
+            "SDG 8",
+            "SDG 9",
+            "SDG 17",
+            "SDG 3",
+            "SDG 7",
+            "SDG 4"
+        ],
+        "Predicted_Impact_Score": 56.11661148071289
+    },
+    {
+        "GSID": 11877,
+        "Project_Name": "GS11876 Improved Cookstove Distribution Across Rural Parts of India",
+        "Country": "India",
+        "Project_Type": "Energy Efficiency - Domestic",
+        "Estimated_Annual_Credits": 9587,
+        "Parsed_SDGs": [
+            "SDG 3",
+            "SDG 13",
+            "SDG 7"
+        ],
+        "Predicted_Impact_Score": 44.25286865234375
+    },
+    {
+        "GSID": 615,
+        "Project_Name": "Hassan Composite Vermicompost Biogas Project",
+        "Country": "India",
+        "Project_Type": "Biogas - Heat",
+        "Estimated_Annual_Credits": 2668,
+        "Parsed_SDGs": [
+            "SDG 3",
+            "SDG 13",
+            "SDG 12"
+        ],
+        "Predicted_Impact_Score": 31.386430740356445
+    },
+    {
+        "GSID": 12278,
+        "Project_Name": "GS Microscale PoA : Integrated Domestic Energy Systems (IDES) for rural communities in India\\u2013RVPA 06",
+        "Country": "India",
+        "Project_Type": "Energy Efficiency - Domestic",
+        "Estimated_Annual_Credits": 9619,
+        "Parsed_SDGs": [
+            "SDG 3",
+            "SDG 13",
+            "SDG 7"
+        ],
+        "Predicted_Impact_Score": 38.40577697753906
+    },
+    {
+        "GSID": 11802,
+        "Project_Name": "Fair Climate Programme for Sustainable Household Energy (PoA):  Bachat - Karnataka India (VPA 6)",
+        "Country": "India",
+        "Project_Type": "Energy Efficiency - Domestic",
+        "Estimated_Annual_Credits": 9721,
+        "Parsed_SDGs": [
+            "SDG 3",
+            "SDG 13",
+            "SDG 7",
+            "SDG 5"
+        ],
+        "Predicted_Impact_Score": 38.019981384277344
+    },
+    {
+        "GSID": 5199,
+        "Project_Name": "Solar Power Project in Rajasthan",
+        "Country": "India",
+        "Project_Type": "Solar Thermal - Electricity",
+        "Estimated_Annual_Credits": 34261,
+        "Parsed_SDGs": [
+            "SDG 13",
+            "SDG 7",
+            "SDG 8"
+        ],
+        "Predicted_Impact_Score": 71.09044647216797
+    },
+    {
+        "GSID": 10782,
+        "Project_Name": "Household biogas plants in rural parts of Central India",
+        "Country": "India",
+        "Project_Type": "Biogas - Electricity",
+        "Estimated_Annual_Credits": 56235,
+        "Parsed_SDGs": [
+            "SDG 3",
+            "SDG 13",
+            "SDG 7"
+        ],
+        "Predicted_Impact_Score": 49.95673370361328
+    }
+] 

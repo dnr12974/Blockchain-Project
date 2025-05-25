@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "gsid": 1, 
+    "name": "Kenya Reforestation",
+    "locationName": "Kenya",
+    "coordinates": [-1.2921, 36.8219],
+    "type": "Reforestation",
+    "description": "A pioneering reforestation initiative in Kenya, focusing on indigenous tree species and community involvement to restore degraded lands and enhance biodiversity.",
+    "totalMinted": 500,
+    "mockPricePerToken": "10.50"
+  },
+  {
+    "id": 1,
+    "gsid": 2,
+    "name": "India Methane Capture",
+    "locationName": "India",
+    "coordinates": [20.5937, 78.9629],
+    "type": "Methane Capture",
+    "description": "Capturing methane emissions from agricultural waste in rural India, converting a potent greenhouse gas into a cleaner energy source for local communities.",
+    "totalMinted": 1000,
+    "mockPricePerToken": "12.00"
+  },
+  {
+    "id": 2,
+    "gsid": 3,
+    "name": "Brazil Solar Farm",
+    "locationName": "Brazil",
+    "coordinates": [-14.2350, -51.9253],
+    "type": "Renewable Energy",
+    "description": "Large-scale solar energy generation in Brazil, contributing to the national grid and reducing reliance on fossil fuels, promoting sustainable development.",
+    "totalMinted": 750,
+    "mockPricePerToken": "15.75"
+  },
+  {
+    "id": 3,
+    "gsid": 4,
+    "name": "Indonesia Peatland Restoration",
+    "locationName": "Indonesia",
+    "coordinates": [-0.7893, 113.9213],
+    "type": "Peatland Restoration",
+    "description": "Restoring degraded peatlands in Indonesia to prevent carbon release, conserve unique biodiversity, and support local livelihoods through sustainable practices.",
+    "totalMinted": 600,
+    "mockPricePerToken": "9.25"
+  },
+  {
+    "id": 4,
+    "gsid": 5,
+    "name": "Ghana Cookstoves",
+    "locationName": "Ghana",
+    "coordinates": [7.9465, -1.0232],
+    "type": "Efficient Cookstoves",
+    "description": "Distributing high-efficiency cookstoves in Ghana to reduce fuelwood consumption, decrease indoor air pollution, and lessen deforestation pressures.",
+    "totalMinted": 400,
+    "mockPricePerToken": "8.50"
+  }
+] 
